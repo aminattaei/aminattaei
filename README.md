@@ -15,7 +15,7 @@ Passionate about IoT with ESP32 and MicroPython and interested in cybersecurity.
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://linkedin.com/in/YOUR_LINKEDIN_USERNAME" target="blank">
+<a href="www.linkedin.com/in/amin-attaei-9371b9313" target="blank">
 <img align="center"
 src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
 height="25"
