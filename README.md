@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Amin Ataei</h1>
-<h3 align="center">Backend Developer (Django, DRF, IoT)</h3>
+<h3 align="center">Backend Developer (Django, DRF, Python)</h3>
 
 <p align="left">
 Backend developer focused on building scalable APIs using Django and Django Rest Framework.
@@ -8,10 +8,9 @@ Passionate about IoT with ESP32 and MicroPython and interested in cybersecurity.
 
 ![Visitor count](https://komarev.com/ghpvc/?username=aminataei&color=green)
 
-- 🔭 I’m currently working on **Backend & IoT Projects**
-- 🌱 I’m currently learning **Docker, Redis, Celery**
-- 👯 I’m looking to collaborate on **Backend & IoT Projects**
-- 💬 Ask me about **Python, Django, DRF, PostgreSQL, IoT**
+- 🌱 I’m currently learning **Design Pattern, Solid, Celery**
+- 👯 I’m looking to collaborate on **Backend**
+- 💬 Ask me about **Python, Django, DRF, PostgreSQL**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
